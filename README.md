@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1000/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1000/2000_600px.gif)]
 <h1 align="center">Hi there 👋, I'm Mahmoud Ibrahem</h1> 
 <h3 align="center">A passionate Native Android developer from Egypt</h3>
 
@@ -13,9 +13,8 @@
 ## 💫 About Me:
 - 🌱 I’m currently learning Advanced topics in Android development.
 - 👯 I’m looking to collaborate on Android projects.
-- 🔭 I’m currently working on [Movie World](https://github.com/3wiida/Movies-App)
 - 💬 Ask me about Kotlin, Android Framework.
-- 📫 How to reach me mahmoudewida3@gmail.com.
+- 📫 How to reach me mahmoudewida5@gmail.com.
 
 <br>
 
