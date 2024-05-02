@@ -1,20 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1000/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1000/2000_600px.gif)
 <h1 align="center">Hi there 👋, I'm Mahmoud Ibrahem</h1> 
-<h3 align="center">A passionate Native Android developer from Egypt</h3>
 
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=18A8F7&center=true&vCenter=true&width=435&lines=Android+Developer+%F0%9F%93%B1" alt="Typing SVG" /></a>
 </p>
-
-<br>
-<img align="right" alt="Coding" width="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUxM2MwNjE1MmE0MzdiOTM3YzQwZGU3NDE1YzdiMDJiYzc2NjI4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif">
-
-## 💫 About Me:
-- 🌱 I’m currently learning Advanced topics in Android development.
-- 👯 I’m looking to collaborate on Android projects.
-- 💬 Ask me about Kotlin, Android Framework.
-- 📫 How to reach me mahmoudewida5@gmail.com.
 
 <br>
 
@@ -70,55 +60,3 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width=40px alt="BitBucket" title="BitBucket"/>
     </p>
 </details>
-    
-
-<br>
-
-<details open>
-    <summary><h2>📊 GitHub Stats:</h2></summary>
-        <table border="0" align="center">
-            <tr border="0">
-                <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api?username=3wiida&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
-                    <br><br>
-                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3wiida&theme=tokyonight&hide_border=true"/>
-                </td>
-                <td width="50%" align="center">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3wiida&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-                </td>
-            </tr>
-       </table>
-</details>
-
-<br>
-
-<details open>
-    <summary><h2>🏆 GitHub Trophies</h2></summary>
-    <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=3wiida&theme=tokyonight&no-frame=true&no-bg=false&margin-w=20&margin-h=20&column=-1"/>
-    </div>
-</details>
-
-
-<br>
-
-
-<details open>
-    <summary><h3>🔝 Top Contributed Repos</h3></summary>
-    <div align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=3wiida&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-    </div>
-</details>
-    
-    
-
-<!--
-## 😂 Random Dev Meme
-<div align="center">
-    <img src="https://rm.up.railway.app/" width="512px"/>
-</div>
-
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=abdo_sharaf9)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
